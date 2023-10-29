@@ -1,0 +1,29 @@
+.container1{
+    max-width: 1300px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    margin:auto;
+    font-family: 'first-font';
+}
+.container{
+    margin-top: 100px;
+    font-family: 'first-font';
+}
+.col{
+    margin-top: 20px;
+    margin-bottom: 200px;
+}
+h3,p{
+    text-align: start;
+    max-width: 500px;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    background-color: rgba(91, 65, 91, 0.726);
+}
+img{
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+}
